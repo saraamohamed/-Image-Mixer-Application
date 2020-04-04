@@ -22,7 +22,7 @@ but the 2nd image should the the same size as the first image in ordered to be m
 and if he want to load another two images a message will be appear to check if he want to clear this 2 imeges and load new ones or not.
 ***
 After choosing the second image, you can use the mixer like that:
-![alt text](Capture6.PNG)
+![alt text](Capture6.png)
 ***
 
 In component 1: you can 1st  image  to be mix and choose the component you want to be applied on \
